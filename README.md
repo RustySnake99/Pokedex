@@ -62,7 +62,7 @@ src/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/pokedex.git
+git clone https://github.com/RustySnake99/pokedex.git
 cd pokedex
 ```
 
